@@ -8,9 +8,9 @@
 
 ![preview](preview.png)
 
-[LIVE SITE INSTRUCTIONS]()
+[LIVE SITE INSTRUCTIONS](https://easycss.github.io/easylayout/)
 
-[LIVE SITE EXAMPLE PAGE]()
+[LIVE SITE EXAMPLE PAGE](https://easycss.github.io/easylayout/example.html)
 
 
 ### TODO
